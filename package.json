@@ -1,0 +1,11 @@
+{
+  "name": "node_array_work",
+  "version": "0.0.1",
+  "description": "Project for work with arrays",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Gavrilov <gavrilovivan2000@gmail.com>",
+  "license": "ISC"
+}
